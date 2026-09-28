@@ -43,8 +43,8 @@
     <img src="https://img.shields.io/badge/GitHub-HYDtomako-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://blog.csdn.net/2401_87876529?spm=1000.2115.3001.5343">
-    <img src="https://img.shields.io/badge/CSDN-技术博客-FC5531?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN Blog" />
+  <a href="https://hydblog.xyz/">
+    <img src="https://img.shields.io/badge/HYD-个人站点-0A84FF?style=for-the-badge&logo=homeassistant&logoColor=white" alt="HYD Personal Website" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=HYDtomako&color=blueviolet&style=for-the-badge" alt="Profile Views" />
